@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
 
-<h1 align="center">Hi 👋, I'm Shahar Sade</h1>
+<h1 align="center">Hi 👋, I'm Shahar</h1>
 <h3 align="center">A third year Computer Science student 👨‍💻, with a creative mind and thinking outside the box, here you can see my projects and my works, hope you enjoy ⚡:)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahards&label=Profile%20views&color=0e75b6&style=flat" alt="shahards" /> </p>
