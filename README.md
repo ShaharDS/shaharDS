@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
 
 <h1 align="center">Hi 👋, I'm Shahar</h1>
-<h3 align="center">A third-year Computer Science student 👨‍💻 with a creative mind and the ability to think outside the box. Here, you can explore my projects and works. I hope you enjoy them ⚡:)</h3>
+<h3 align="center">As a third-year Computer Science student 👨‍💻, I thrive on creativity and thinking outside the box. Welcome to my GitHub page, where you can delve into my projects and works. I hope you find them enjoyable! ⚡:)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahards&label=Profile%20views&color=0e75b6&style=flat" alt="shahards" /> </p>
 
